@@ -1,4 +1,3 @@
-# Triggering the CI Workflow
 name: ci
 
 on:
